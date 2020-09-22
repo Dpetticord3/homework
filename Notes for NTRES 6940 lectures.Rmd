@@ -2,7 +2,9 @@
 title: "Notes for NREWS 6940 lectures"
 author: "Daniel Petticord"
 date: "9/22/2020"
-output: html_document
+output: 
+  github_document:
+      toc: true
 ---
 # Course  notes
 We're going to learn a lot about GithHub and the tidyverse and it's going to be fun.
